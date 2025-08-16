@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   soundName: footstep_default
   clips:
-  - {fileID: 8300000, guid: 07c4c120e45bbfe44b76adb82f683355, type: 3}
-  - {fileID: 8300000, guid: 769cee45e35f2bb4bb75600d65c3c6dc, type: 3}
-  - {fileID: 8300000, guid: 9cf1015cad8e67c458026df836db4992, type: 3}
-  - {fileID: 8300000, guid: 6342a433703de1b49b440564e1b7a0cc, type: 3}
-  - {fileID: 8300000, guid: 03481c1eaa9d77949906a7c66fcaeb22, type: 3}
-  - {fileID: 8300000, guid: 59458096728e70d429e09c022aa7ba03, type: 3}
-  - {fileID: 8300000, guid: 3b7aae85432f5034db129e376536ec55, type: 3}
-  - {fileID: 8300000, guid: 2644a88312a6ea24086f4b799fbe1bae, type: 3}
+  - {fileID: 8300000, guid: 20206f2e2c045214a825329cb91cde26, type: 3}
+  - {fileID: 8300000, guid: 93682efb105b7b64aa76bf96406c3886, type: 3}
+  - {fileID: 8300000, guid: 8816a16c02a81ba4a91753333121fd44, type: 3}
+  - {fileID: 8300000, guid: 1e034fe2a2ad78d4ea0f81c1cb4ac657, type: 3}
+  - {fileID: 8300000, guid: 994232ac315e84948bca0448d1284b01, type: 3}
+  - {fileID: 8300000, guid: dc2ea5134064d9d41b6b85cd4b9e886f, type: 3}
+  - {fileID: 8300000, guid: cdfb7b1e1802dc940b316e97569eb496, type: 3}
+  - {fileID: 8300000, guid: 1ba99b41d7322c640813f4f603bc1d77, type: 3}
   volume: 1
   pitch: 1
   loop: 0

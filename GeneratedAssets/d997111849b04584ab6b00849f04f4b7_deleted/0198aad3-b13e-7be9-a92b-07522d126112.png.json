@@ -1,0 +1,20 @@
+{
+    "asset": "d997111849b04584ab6b00849f04f4b7",
+    "fileName": "0198aad3-b13e-7be9-a92b-07522d126112.png",
+    "prompt": "frosted transparent texture",
+    "negativePrompt": "",
+    "model": "e019af84-3249-4fe3-81bc-a1ba0323fdce",
+    "modelName": "GPT Image 1 - High",
+    "customSeed": -1,
+    "w3CTraceId": "8811563e11c0a04e59867c0913b7d9c1",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

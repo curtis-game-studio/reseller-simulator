@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd523dabb448a1d43baaadfd5e1bcf81, type: 3}
+  m_Name: footstep_stone
+  m_EditorClassIdentifier: 
+  soundName: footstep_stone
+  clips:
+  - {fileID: 8300000, guid: 96c14af3aa7ae6b46962bfb68faadf3b, type: 3}
+  - {fileID: 8300000, guid: 04ec1860a37f7cc44acfa9f957c0b60a, type: 3}
+  - {fileID: 8300000, guid: 7012fc0143f167b4db338719a18332b2, type: 3}
+  - {fileID: 8300000, guid: 123b669e3a3ed3f48bcac600da332c47, type: 3}
+  - {fileID: 8300000, guid: 88cedd466cde47443bad4ab57bcd4c25, type: 3}
+  - {fileID: 8300000, guid: 1dfc28c783861c340807d9417bc8e4c0, type: 3}
+  - {fileID: 8300000, guid: 6a6b74e0d18d05d40bce1e24a5a7763c, type: 3}
+  - {fileID: 8300000, guid: 405ea64a50961ba4ba413e96bcad9dbd, type: 3}
+  - {fileID: 8300000, guid: 9229d7fb15a017f48920dd1f11412a88, type: 3}
+  volume: 1
+  pitch: 1
+  loop: 0
+  spatial: 1
+  useRandomPitch: 1
